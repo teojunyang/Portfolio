@@ -78,7 +78,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           I&apos;m currently a computer science student in Malaysia,
-          'To be or not to be. That is a question.'
+          &apos;To be or not to be. That is a question.&apos;
           This famous line by Shakespeare often echoes in my mind as I explore the realms of programming and software development,
           constantly reminded of the myriad of choices and paths available in this field.
 
